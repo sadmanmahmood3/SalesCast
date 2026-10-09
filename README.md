@@ -2,6 +2,8 @@
 
 **Sales forecasting & inventory planning for small businesses — built for how people actually shop in Bangladesh.**
 
+**🔗 Live demo:** https://salescast-bd.streamlit.app
+
 Upload your sales history and SalesCast will:
 
 - **Forecast** daily sales for the next 2 weeks to 6 months, per product, with a likely range
