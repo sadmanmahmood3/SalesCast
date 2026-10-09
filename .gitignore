@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Your real business data - keep it off GitHub
+data/private/
+*.xlsx
+
+# Editors / OS
+.vscode/
+.DS_Store
+Thumbs.db
